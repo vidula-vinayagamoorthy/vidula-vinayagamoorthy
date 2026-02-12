@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Vidu, a Technology Risk and Control leader based in London, briding 10+ years of top tier banking (UBS, Royal Bank of Scotland and Credit Suisse) with technical Data Science with Machine Learning and AI upskilling (University of Cambridge).  
+I am Vidu, a Technology Risk and Control leader based in London, bridging 10+ years of top tier banking (UBS, Royal Bank of Scotland and Credit Suisse) with technical Data Science with Machine Learning and AI upskilling (University of Cambridge).  
 
 I started my career in application development and production support. I am hooked on how technology, data and controls can prevent disruption in financial services. I am passionate about the role of AI, data and automation transforming risk, controls and operational resillience.  
 
